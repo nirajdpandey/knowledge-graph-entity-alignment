@@ -13,3 +13,7 @@ An open-source framework for aligning the same real-world entities in different 
 5. Matplotlib (>=2.0.0)
 6. scikit-learn (>=0.18)
 
+
+### References 
+
+Follow papers on entity alignment in knowledge graphs. There are many. Also with codes. This code is also one of the paper implementation.
