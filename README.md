@@ -13,5 +13,3 @@ An open-source framework for aligning the same real-world entities in different 
 5. Matplotlib (>=2.0.0)
 6. scikit-learn (>=0.18)
 
-#References
-Bayu Distiawan Trisedya, Jianzhong Qi, Rui Zhang. [**Entity Alignment between Knowledge Graphs Using Attribute Embeddings.**] AAAI 2019.
